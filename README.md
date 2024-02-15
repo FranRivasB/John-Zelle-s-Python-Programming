@@ -26,4 +26,4 @@ SOFTWARE.
 
 
 # PyCharm Results.
-![Image on how to execute the code])
+![Image on how to execute the code](https://github.com/FranRivasB/John-Zelle-s-Python-Programming/blob/main/Images/2024-02-15.png)
