@@ -26,4 +26,4 @@ SOFTWARE.
 
 
 # PyCharm Results.
-!(C:\Users\Francisco Rivas\OneDrive\Pictures\Screenshots\2024-02-15.png)
+![Image on how to execute the code])
